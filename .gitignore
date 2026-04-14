@@ -1,0 +1,8 @@
+# 動画ファイル（容量大）
+*.mp4
+*.mov
+*.avi
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
